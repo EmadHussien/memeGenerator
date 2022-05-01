@@ -1,2 +1,2 @@
-# meme-generator-updated
+# meme-generator
 Created with CodeSandbox
