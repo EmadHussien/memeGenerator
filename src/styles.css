@@ -8,6 +8,10 @@
   font-family: sans-serif;
   height: 100vh;
 }
+
+.file {
+  width: 87px;
+}
 header {
   display: flex;
   align-items: center;

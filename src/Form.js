@@ -80,7 +80,12 @@ export default function Form() {
             Get a new random meme
           </button>
           <p className="upload-meme">Upload your own meme</p>
-          <input type="file" name="uploadedImage" onChange={imghandle} />
+          <input
+            type="file"
+            name="uploadedImage"
+            className="file"
+            onChange={imghandle}
+          />
         </div>
       </div>
       <div className="meme" style={{ display: imgState ? "block" : "none" }}>
