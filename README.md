@@ -8,7 +8,7 @@ This website provides users the ability to create their own memes easily.
 3. Users can upload their own meme image and write what they want on it.
 4. View optimal layout for different screen sizes.
 
-Technologies : HTML , CSS , REACT (using Hooks), API.
+##### Technologies : HTML , CSS , REACT (using Hooks), API.
   
 api used for getting the images  : https://api.imgflip.com/get_memes
 
