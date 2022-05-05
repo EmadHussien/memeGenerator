@@ -1,10 +1,14 @@
 # meme-generator
-  i started this project from scratch
-  <br/>
-  project features :
-  1. user can generate random meme 
-  2. user can write his own text top and bottom meme
-  3. user can upload his own meme image and write what he wants 
+
+This website provides users the ability to create their own memes easily.
+
+##### Features :
+1. Users can generate random meme images.
+2. Users can write their own text at the top and bottom of the meme.
+3. Users can upload their own meme image and write what they want on it.
+4. View optimal layout for different screen sizes.
+
+Technologies : HTML , CSS , REACT (using Hooks), API.
   
 api used for getting the images  : https://api.imgflip.com/get_memes
 
